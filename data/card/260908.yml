@@ -5,7 +5,7 @@ about:
   head: a83f9c7
   archived: false
   latestVersion: "v1.5.6"
-  collectedAt: 2026-09-08T03:21:37Z
+  collectedAt: 2026-09-08T06:12:45Z
 timeline:
   created: 2019-05-13
   lastCommit: 2025-04-17
@@ -82,7 +82,7 @@ total:
   commit: 100
 ---
 path: /home/runner/.x-repo/github.com/Ladicle/kubectl-rolesum
-collectedAt: 2026-09-08T03:21:37Z
+collectedAt: 2026-09-08T06:12:45Z
 loc:
   Go:
     code: 728
