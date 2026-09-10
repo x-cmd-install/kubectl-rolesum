@@ -12,6 +12,18 @@ Summarize Kubernetes RBAC roles for the specified subjects.
 x install kubectl-rolesum
 ```
 
+## 代码洞察
+
+合计: **803** 行代码（覆盖前 5 种语言、共 **18** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 728 | 10 | 120 | 13 |
+| Sh | 39 | 2 | 11 | 2 |
+| Makefile | 33 | 0 | 15 | 1 |
+| Dockerfile | 3 | 0 | 0 | 1 |
+| Markdown | 0 | 20 | 14 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/Ladicle/kubectl-rolesum>
@@ -36,20 +48,11 @@ x install kubectl-rolesum
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 2 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 2 | 0 | 0 | 0 |
-
-## 代码规模
-
-合计: **803** 行代码（覆盖前 5 种语言、共 **18** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 728 | 10 | 120 | 13 |
-| Sh | 39 | 2 | 11 | 2 |
-| Makefile | 33 | 0 | 15 | 1 |
-| Dockerfile | 3 | 0 | 0 | 1 |
-| Markdown | 0 | 20 | 14 | 1 |
+| last720d | 2024-09-20 | 0 | 2 | 3 | 0 | 0 | 2 |
 
 ## Release 资产
 
@@ -72,4 +75,4 @@ kubectl-rolesum 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T18:29:34Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:41:37Z._
