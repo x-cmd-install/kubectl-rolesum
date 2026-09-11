@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13125933,
       "digest": null,
-      "download_count": 2636,
+      "download_count": 2639,
       "created_at": "2024-04-19T02:10:44Z",
       "updated_at": "2024-04-19T02:10:45Z",
       "browser_download_url": "https://github.com/Ladicle/kubectl-rolesum/releases/download/v1.5.6/kubectl-rolesum_linux-amd64.tar.gz"
