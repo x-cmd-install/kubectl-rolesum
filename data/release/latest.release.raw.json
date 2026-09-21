@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 612,
       "digest": null,
-      "download_count": 61,
+      "download_count": 62,
       "created_at": "2024-04-19T02:10:45Z",
       "updated_at": "2024-04-19T02:10:45Z",
       "browser_download_url": "https://github.com/Ladicle/kubectl-rolesum/releases/download/v1.5.6/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13029884,
       "digest": null,
-      "download_count": 53,
+      "download_count": 54,
       "created_at": "2024-04-19T02:10:45Z",
       "updated_at": "2024-04-19T02:10:46Z",
       "browser_download_url": "https://github.com/Ladicle/kubectl-rolesum/releases/download/v1.5.6/kubectl-rolesum_darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12417744,
       "digest": null,
-      "download_count": 206,
+      "download_count": 207,
       "created_at": "2024-04-19T02:10:45Z",
       "updated_at": "2024-04-19T02:10:46Z",
       "browser_download_url": "https://github.com/Ladicle/kubectl-rolesum/releases/download/v1.5.6/kubectl-rolesum_darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13125933,
       "digest": null,
-      "download_count": 2714,
+      "download_count": 2717,
       "created_at": "2024-04-19T02:10:44Z",
       "updated_at": "2024-04-19T02:10:45Z",
       "browser_download_url": "https://github.com/Ladicle/kubectl-rolesum/releases/download/v1.5.6/kubectl-rolesum_linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 11896453,
       "digest": null,
-      "download_count": 347,
+      "download_count": 349,
       "created_at": "2024-04-19T02:10:44Z",
       "updated_at": "2024-04-19T02:10:45Z",
       "browser_download_url": "https://github.com/Ladicle/kubectl-rolesum/releases/download/v1.5.6/kubectl-rolesum_linux-arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13166735,
       "digest": null,
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2024-04-19T02:10:44Z",
       "updated_at": "2024-04-19T02:10:45Z",
       "browser_download_url": "https://github.com/Ladicle/kubectl-rolesum/releases/download/v1.5.6/kubectl-rolesum_windows-amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 11956393,
       "digest": null,
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2024-04-19T02:10:44Z",
       "updated_at": "2024-04-19T02:10:45Z",
       "browser_download_url": "https://github.com/Ladicle/kubectl-rolesum/releases/download/v1.5.6/kubectl-rolesum_windows-arm64.tar.gz"
